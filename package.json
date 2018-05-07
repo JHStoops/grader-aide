@@ -1,0 +1,62 @@
+{
+  "name": "grader-aide",
+  "description": "Web III Final Project",
+  "version": "1.0.0",
+  "author": "Travis Lindsay, Tanner McAllister, Robert McCann, Joseph Stoops",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
+    "api": "cross-env NODE_ENV=dev nodemon server/app.js",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.0.0-rc.8",
+    "clipboard": "^2.0.1",
+    "connect-history-api-fallback": "^1.5.0",
+    "express": "^4.16.3",
+    "helmet": "^3.12.0",
+    "mongodb": "^3.0.7",
+    "morgan": "^1.9.0",
+    "npm": "^6.0.0",
+    "serve-favicon": "^2.5.0",
+    "vue": "^2.5.11",
+    "vue-router": "^3.0.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "bcryptjs": "^2.4.3",
+    "chai": "^4.1.2",
+    "cors": "^2.8.4",
+    "cross-env": "^5.0.5",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.4",
+    "jsonwebtoken": "^8.2.1",
+    "mocha": "^5.1.1",
+    "nodemon": "^1.17.3",
+    "supertest": "^3.0.0",
+    "vue-loader": "^13.0.5",
+    "vue-template-compiler": "^2.4.4",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPQRBob/grader-aide.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/SPQRBob/grader-aide/issues"
+  },
+  "homepage": "https://github.com/SPQRBob/grader-aide#readme"
+}

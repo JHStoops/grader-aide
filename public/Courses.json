@@ -1,0 +1,532 @@
+[
+  {
+	"name": "CS4690 - Web III",
+	"assignments": [
+    {
+      "name": "4D",
+      "totalPts": 10,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Iceberg",
+      "totalPts": 0,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Material1",
+      "totalPts": 20,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "graderAidePages",
+      "totalPts": 50,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Material2",
+      "totalPts": 20,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Material3",
+      "totalPts": 20,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Material4",
+      "totalPts": 20,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Material5",
+      "totalPts": 20,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Team Milestone",
+      "totalPts": 90,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Material6",
+      "totalPts": 20,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Material7",
+      "totalPts": 20,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Adv CSS",
+      "totalPts": 33,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    },
+    {
+      "name": "Final Project",
+      "totalPts": 200,
+      "rules": [
+        {
+          "pts": -1,
+          "desc": "wrong file name"
+        },
+        {
+          "pts": -5,
+          "desc": "magic number"
+        },
+        {
+          "pts": -2,
+          "desc": "blatant ignorance"
+        },
+        {
+          "pts": -8,
+          "desc": "inline styling"
+        },
+        {
+          "pts": 1,
+          "desc": "Extra credit"
+        }
+      ]
+    }
+  ]
+  },
+  {
+    "name": "CS3660 - Web II",
+    "assignments": [
+      {
+        "name": "4D",
+        "totalPts": 10,
+        "rules": [
+          {
+            "pts": -1,
+            "desc": "wrong file name"
+          },
+          {
+            "pts": -5,
+            "desc": "magic number"
+          },
+          {
+            "pts": -2,
+            "desc": "blatant ignorance"
+          },
+          {
+            "pts": -8,
+            "desc": "inline styling"
+          },
+          {
+            "pts": 1,
+            "desc": "Extra credit"
+          }
+        ]
+      },
+      {
+        "name": "Iceberg",
+        "totalPts": 0,
+        "rules": [
+          {
+            "pts": -1,
+            "desc": "wrong file name"
+          },
+          {
+            "pts": -5,
+            "desc": "magic number"
+          },
+          {
+            "pts": -2,
+            "desc": "blatant ignorance"
+          },
+          {
+            "pts": -8,
+            "desc": "inline styling"
+          },
+          {
+            "pts": 1,
+            "desc": "Extra credit"
+          }
+        ]
+      },
+      {
+        "name": "Bootstrap1",
+        "totalPts": 20,
+        "rules": [
+          {
+            "pts": -1,
+            "desc": "wrong file name"
+          },
+          {
+            "pts": -5,
+            "desc": "magic number"
+          },
+          {
+            "pts": -2,
+            "desc": "blatant ignorance"
+          },
+          {
+            "pts": -8,
+            "desc": "inline styling"
+          },
+          {
+            "pts": 1,
+            "desc": "Extra credit"
+          }
+        ]
+      },
+      {
+        "name": "Bootstrap2",
+        "totalPts": 20,
+        "rules": [
+          {
+            "pts": -1,
+            "desc": "wrong file name"
+          },
+          {
+            "pts": -5,
+            "desc": "magic number"
+          },
+          {
+            "pts": -2,
+            "desc": "blatant ignorance"
+          },
+          {
+            "pts": -8,
+            "desc": "inline styling"
+          },
+          {
+            "pts": 1,
+            "desc": "Extra credit"
+          }
+        ]
+      },
+      {
+        "name": "Vue1",
+        "totalPts": 20,
+        "rules": [
+          {
+            "pts": -1,
+            "desc": "wrong file name"
+          },
+          {
+            "pts": -5,
+            "desc": "magic number"
+          },
+          {
+            "pts": -2,
+            "desc": "blatant ignorance"
+          },
+          {
+            "pts": -8,
+            "desc": "inline styling"
+          },
+          {
+            "pts": 1,
+            "desc": "Extra credit"
+          }
+        ]
+      },
+      {
+        "name": "Vue2",
+        "totalPts": 20,
+        "rules": [
+          {
+            "pts": -1,
+            "desc": "wrong file name"
+          },
+          {
+            "pts": -5,
+            "desc": "magic number"
+          },
+          {
+            "pts": -2,
+            "desc": "blatant ignorance"
+          },
+          {
+            "pts": -8,
+            "desc": "inline styling"
+          },
+          {
+            "pts": 1,
+            "desc": "Extra credit"
+          }
+        ]
+      },
+      {
+        "name": "Vue3",
+        "totalPts": 20,
+        "rules": [
+          {
+            "pts": -1,
+            "desc": "wrong file name"
+          },
+          {
+            "pts": -5,
+            "desc": "magic number"
+          },
+          {
+            "pts": -2,
+            "desc": "blatant ignorance"
+          },
+          {
+            "pts": -8,
+            "desc": "inline styling"
+          },
+          {
+            "pts": 1,
+            "desc": "Extra credit"
+          }
+        ]
+      }
+    ]
+  }
+]
